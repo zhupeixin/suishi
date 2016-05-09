@@ -1,1 +1,18 @@
 /* Empty. Add your own CSS if you like */
+.bj{width: 100%;height: 100%;}
+#goFirst{width: 40%;height: 22%;position: absolute;bottom: 20%;left: 30%;}
+#img_top{width: 60%;height: auto;position: absolute;top: 19.2%;left: 20%;}
+#img_buttom{width: 60%;height: auto;position: absolute;top: 48.5%;left: 20%;}
+#img_left{width:36.7%;height: auto;position: absolute;top: 27.5%;left: 6%;}
+#img_right{width:36.7%;height: auto;position: absolute;top: 27.5%;right: 6%;}
+/*二级页*/
+#gobanquan{width: 40%;height: 7%;position: absolute;bottom: 7%;left: 30%;}
+.weather_list_i{width:92.87%;height: auto;position: absolute;bottom: 29.4%;left: 4%;}
+.weather_list_t{width:92.87%;height: 20%;position: absolute;bottom: 29%;left: 4%;}
+#weather_1{width: 20%;height: 100%;float: left;}
+#weather_2{width: 15%;height: 100%;float: left;}
+#weather_3{width: 15%;height: 100%;float: left;}
+#weather_4{width: 15%;height: 100%;float: left;}
+#weather_5{width: 15%;height: 100%;float: left;}
+#weather_6{width: 20%;height: 100%;float: left;}
+#erweima{width: 40.27%;height: auto;position: absolute;top: 38%;left: 30%;}

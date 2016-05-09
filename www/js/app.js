@@ -31,6 +31,31 @@ angular.module('starter', ['ionic','starter.controllers','starter.services'])
         templateUrl: 'templates/start.html',
         controller: "startCtrl"
       })
+        .state('second_1', {
+            url: '/second_1',
+            templateUrl: 'templates/second_1.html',
+            controller: "second_1Ctrl"
+        })
+        .state('second_2', {
+            url: '/second_2',
+            templateUrl: 'templates/second_2.html',
+            controller: "second_2Ctrl"
+        })
+        .state('second_3', {
+            url: '/second_3',
+            templateUrl: 'templates/second_3.html',
+            controller: "second_3Ctrl"
+        })
+        .state('second_4', {
+            url: '/second_4',
+            templateUrl: 'templates/second_4.html',
+            controller: "second_4Ctrl"
+        })
+        .state('banquan',{
+            url: '/banquan',
+            templateUrl: 'templates/banquan.html',
+            controller: "banquanCtrl"
+        })
       .state('first',{
         url: '/first',
         templateUrl: 'templates/first.html',
